@@ -9,3 +9,10 @@ The following are the contributors:
 | Ahauserus     | [ahauserus](https://github.com/ahauserus) | ahauserus@gmail.com |
 | Ahauserus     | [ahauserus](https://github.com/ahauserus) | ahauserus@gmail.com |
 | Ahauserus     | [ahauserus](https://github.com/ahauserus) | ahauserus@gmail.com |
+
+___
+Prototypes
+```c
+int printf(const char *format, ...);
+
+```
