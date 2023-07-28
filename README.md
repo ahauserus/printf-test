@@ -14,5 +14,15 @@ ___
 Prototypes
 ```c
 int printf(const char *format, ...);
+```
 
+Authorized Fubctions
+```c
+write();
+malloc();
+free();
+va_start;
+va_arg;
+va_end;
+va_copy;
 ```
