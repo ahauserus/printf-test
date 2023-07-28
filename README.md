@@ -5,7 +5,7 @@ The following are the contributors:
 
 ||Name|Github Account|Email|
 ||:-:|:-:|:-:|
-||Ahauserus|[ahauserus](https://github.com/ahauserus)|ahauserus@gmail.com|
+|1.|Ahauserus|![ahauserus](https://github.com/ahauserus)|ahauserus@gmail.com|
 ||John|john|john@me.com|
 ||John|john|john@me.com|
 
